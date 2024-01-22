@@ -1,0 +1,9 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/module_config_firmware/max30205",
+        "${workspaceFolder}/ble_config_firmware"
+    ],
+    "files.associations": {
+        "log.h": "c"
+    }
+}
